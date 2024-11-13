@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="relative bg-black">
       <div>
-        <h1>Hello, Portfolio</h1>
+        <h1>Hello, Portfolio 2</h1>
       </div>
     </main>
   );
